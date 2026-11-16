@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- 상단 캡슐 배너 (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=210&section=header&text=JunSu%20(SuranS2)&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%ED%98%84%EC%9E%A5%EC%9D%98%20%EC%9A%94%EA%B5%AC%EB%A5%BC%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84%C2%B7%EB%B0%B0%ED%8F%AC%20%ED%99%95%EC%9D%B8%EA%B9%8C%EC%A7%80%20%EC%9E%87%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descSize=17&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=110&section=header&fontColor=ffffff&desc=%ED%98%84%EC%9E%A5%EC%9D%98%20%EC%9A%94%EA%B5%AC%EB%A5%BC%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84%C2%B7%EB%B0%B0%ED%8F%AC%20%ED%99%95%EC%9D%B8%EA%B9%8C%EC%A7%80%20%EC%9E%87%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descSize=17&descAlignY=45" width="100%" />
 
 <!-- 타이핑 애니메이션 배너 (readme-typing-svg) -->
 <a href="https://github.com/SuranS2">
@@ -119,16 +119,9 @@
 
 ---
 
-## 📊 GitHub Stats
+<details>
+<summary>프로젝트·기술 요약 보기</summary>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SuranS2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=E2E8F0" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuranS2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E2E8F0&langs_count=6" height="165" alt="Top Languages" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=110&section=footer" width="100%" />
-
-</div>
 ## 대표 프로젝트
 
 ### [AMApill](https://github.com/KOSA2025-FINAL-PROJECT-TEAM3/.github#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C) · 가족 복약관리 서비스
@@ -160,3 +153,13 @@
 
 - [bass-sound-to-muse-score](https://github.com/SuranS2/bass-sound-to-muse-score) · 음원에서 베이스 트랙을 분리하고 MuseScore에서 열 수 있는 악보와 TAB을 생성하는 Python MCP 도구입니다.
 - [korea-projection PR #210](https://github.com/StopDragon/korea-projection/pull/210) · 차량 프로젝션 와이드 화면과 USB 유선 연결 변경을 제안했습니다.
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+[Contributions](https://github.com/SuranS2#js-contribution-activity-description) · [Repositories](https://github.com/SuranS2?tab=repositories)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=110&section=footer" width="100%" />
